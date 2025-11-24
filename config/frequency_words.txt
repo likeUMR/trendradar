@@ -1,113 +1,76 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
+AI游戏
+AIGC游戏
+生成式AI + 游戏
+智能NPC
+AI角色
+游戏AI
+游戏
 人工智能
+AI
 
-自动驾驶
+黑神话 + AI
+影之刃 + AI
+逆水寒 + AI
+鸣潮 + AI
 
-机器人
+网易伏羲
+伏羲AI
+腾讯混元 + 游戏
+字节 + 游戏AI
+百度文心 + 游戏
+阿里通义 + 游戏
+智谱 + 游戏
+百川 + 游戏
+月之暗面 + 游戏
+MiniMax + 游戏
 
-国产
-中国
+Inworld
+Convai
+Latitude
+AI Dungeon
+AIVillage
+Aivilization
 
-美国
-日本
-韩国
+NVIDIA + ACE
+英伟达 + ACE
+AI Agent + 游戏
+虚拟人 + 游戏
+数字人 + 游戏
 
-芯片
-光刻机
+Unity + AI
+Unreal + AI
+虚幻引擎 + AI
+游戏引擎 + AI
 
-科技
+AI + 玩家行为
+AI + 关卡生成
+AI + 剧情生成
+AI + 对话系统
+AI + 游戏测试
 
-核能
+元宇宙 + AI
+开放世界 + AI
+沙盒 + AI
 
-水电站
-雅鲁藏布江
+游戏 + 大模型
+LLM + 游戏
+多模态 + 游戏
 
-新质生产力
+索尼 + AI
+任天堂 + AI
+微软 + 游戏AI
+Google + GameNGen
+DeepMind + 游戏
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+国产 + AI游戏
+中国 + 游戏AI
+
+!芯片
+!光刻机
+!自动驾驶
+!机器人（工业）
+!手机
+!汽车
+!硬件
+!招聘
+!融资
